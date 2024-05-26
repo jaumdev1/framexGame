@@ -1,0 +1,12 @@
+#gameContainer {
+    height: 100vh;
+    overflow: hidden;
+  }
+  canvas {
+  }
+  .start {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 10000;
+  }
